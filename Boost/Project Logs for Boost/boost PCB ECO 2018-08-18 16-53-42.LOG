@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=Ccomp2 Old Footprint=1608[0603] New Footprint=0805
+Change Component Footprint: Designator=Css Old Footprint=1608[0603] New Footprint=0805
+Change Component Footprint: Designator=Cvcc Old Footprint=1608[0603] New Footprint=0805
+Change Component Footprint: Designator=Rcomp Old Footprint=1608[0603] New Footprint=0805
+Change Component Footprint: Designator=Rfbb Old Footprint=1608[0603] New Footprint=0805
+Change Component Footprint: Designator=Rfbt Old Footprint=1608[0603] New Footprint=0805
+Change Component Footprint: Designator=Cout Old Footprint=1608[0603] New Footprint=1210
+Change Component Footprint: Designator=L1 Old Footprint=XAL4020-601MEB New Footprint=2-SMD
+Added Pin To Net: NetName=D5 Pin=L1-1
+Added Pin To Net: NetName=D3 Pin=L1-2
+Added Room: Name=boost

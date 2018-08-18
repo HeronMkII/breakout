@@ -1,0 +1,11 @@
+Added Component: Designator=U1(SOT65P210X110-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-38956-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=D8 Pin=U1-2
+Added Pin To Net: NetName=+3V3 Pin=U1-3
+Added Pin To Net: NetName=D9 Pin=U1-4
+Added Pin To Net: NetName=+5V Pin=U1-5
+Added Pin To Net: NetName=Iout Pin=U1-6
+Added Member To Class: ClassName=boost Member=Component U1 INA214
