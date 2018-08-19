@@ -1,0 +1,20 @@
+Added Component: Designator=BB(RNC0014A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-42036-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D1 Pin=BB-1
+Added Pin To Net: NetName=D2 Pin=BB-2
+Added Pin To Net: NetName=D3 Pin=BB-3
+Added Pin To Net: NetName=D4 Pin=BB-4
+Added Pin To Net: NetName=D4 Pin=BB-5
+Added Pin To Net: NetName=D4 Pin=BB-6
+Added Pin To Net: NetName=D4 Pin=BB-7
+Added Pin To Net: NetName=D4 Pin=BB-8
+Added Pin To Net: NetName=D2 Pin=BB-9
+Added Pin To Net: NetName=D2 Pin=BB-10
+Added Pin To Net: NetName=D7 Pin=BB-11
+Added Pin To Net: NetName=D8 Pin=BB-12
+Added Pin To Net: NetName=D8 Pin=BB-13
+Added Pin To Net: NetName=D8 Pin=BB-14
+Added Member To Class: ClassName=buckboost Member=Component BB TPS630250
+Added Room: Name=buckboost
