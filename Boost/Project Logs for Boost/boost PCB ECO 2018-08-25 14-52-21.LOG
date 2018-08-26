@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=5A Trace Member=D9
+Change Net Name : Old Net Name=D1 New Net Name=Vcc
+Change Net Name : Old Net Name=D2 New Net Name=FSW
+Change Net Name : Old Net Name=D3 New Net Name=SW
+Change Net Name : Old Net Name=D4 New Net Name=BOOT
+Change Net Name : Old Net Name=D5 New Net Name=Vin
+Change Net Name : Old Net Name=D6 New Net Name=SS
+Change Net Name : Old Net Name=D8 New Net Name=AGND
+Change Net Name : Old Net Name=D9 New Net Name=Vout
+Change Net Name : Old Net Name=D10 New Net Name=FB
+Change Net Name : Old Net Name=D11 New Net Name=COMP
+Change Net Name : Old Net Name=D12 New Net Name=ILIM
+Change Net Name : Old Net Name=Iout New Net Name=Iadc
+Change Net Name : Old Net Name=Vout New Net Name=Vadc
+Added Member To Class: ClassName=5A Trace Member=Wire Vout
+Added Room: Name=boost
+Change Rule Scope 1 : Old Scope=InNet('D9') New Scope=InNet('Vout')
